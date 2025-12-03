@@ -89,7 +89,7 @@ function buildPayload(prompt) {
     
     return {
         "wait_for": [],
-        "app_last_change": "39058753574",
+        "app_last_change": "39892661867",
         "client_breaking_revision": 5,
         "calls": [{
             "client_state": {
@@ -130,7 +130,7 @@ function buildPayload(prompt) {
         }],
         "timezone_offset": -480,
         "timezone_string": "Asia/Shanghai",
-        "user_id": "1764050080652x853479239511027100",
+        "user_id": "1764729119672x381156733248679360",
         "should_stream": false,
         "platform": "web"
     };
